@@ -1,4 +1,4 @@
-# curso-alura-arquitetura-css
+curso-alura-arquitetura-css
 
 Olá esse projeto foi feito juntamente com o instrutor Matheus Castiglioni na Alura, nele foi ensinado muita coisa sobre estilização no CSS e foi feita uma página da "Fruta&Fruto".
 
